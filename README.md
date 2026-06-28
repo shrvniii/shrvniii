@@ -1,62 +1,27 @@
-About Me:
-Hi, I’m Shravani Sawant 👋
-
-I’m a Computer Engineering student passionate about frontend development, UI/UX, and building web applications that are both functional and intuitive. I enjoy turning ideas into engaging digital experiences while continuously learning new technologies and improving my problem-solving skills.
-
-Currently, I’m exploring full-stack development, strengthening my knowledge of Data Structures & Algorithms, and building projects that solve real-world problems. I believe the best way to learn is by creating, so every repository here represents something I’ve built, experimented with, or learned along the way.
-
-## 🚀 Tech Stack
-
-* Python
-* Java
-* HTML, CSS & JavaScript
-* Django
-* MySQL & SQLite
-* Git & GitHub
-* Bootstrap
-* Figma
-
-## 🌱 Currently Exploring
-
-* React
-* Advanced JavaScript
-* Full-Stack Web Development
-* Data Structures & Algorithms
-* UI/UX Design
-
-## 📌 What You’ll Find Here
-
-* Frontend and full-stack web applications
-* Academic and personal projects
-* UI/UX explorations
-* DSA practice
-* Experiments with new technologies
-
-### 📫 Connect with Me
-
-* LinkedIn: https://www.linkedin.com/in/shravanisawant19/
-* Email: shravani.sawant@vit.edu.in
-
-> Building, learning, and improving—one project at a time.
-🌐 Socials:
-Instagram LinkedIn Pinterest email
-
-💻 Tech Stack:
-C C++ CSS3 Java HTML5 JavaScript Python Vercel Firebase Render Angular.js Chart.js Bootstrap Django Flask Flutter Next JS NodeJS TailwindCSS Vite React Firebase SQLite Supabase MySQL Postgres Canva Figma
-
-📊 GitHub Stats:
+# 💫 About Me:
+# Hi, I'm Shravani Sawant 👋<br><br>I'm a Computer Engineering student passionate about frontend development, UI/UX, and building web applications that are both functional and intuitive. I enjoy turning ideas into engaging digital experiences while continuously learning new technologies and improving my problem-solving skills.<br><br>Currently, I'm exploring full-stack development, strengthening my knowledge of Data Structures & Algorithms, and building projects that solve real-world problems. I believe the best way to learn is by creating, so every repository here represents something I've built, experimented with, or learned along the way.<br><br>## 🚀 Tech Stack<br><br>* Python<br>* Java<br>* HTML, CSS & JavaScript<br>* Django<br>* MySQL & SQLite<br>* Git & GitHub<br>* Bootstrap<br>* Figma<br><br>## 🌱 Currently Exploring<br><br>* React<br>* Advanced JavaScript<br>* Full-Stack Web Development<br>* Data Structures & Algorithms<br>* UI/UX Design<br><br>## 📌 What You'll Find Here<br><br>* Frontend and full-stack web applications<br>* Academic and personal projects<br>* UI/UX explorations<br>* DSA practice<br>* Experiments with new technologies<br><br>### 📫 Connect with Me<br><br>* LinkedIn: *https://www.linkedin.com/in/shravanisawant19/*<br>* Email: *shravani.sawant@vit.edu.in*<br><br>> *Building, learning, and improving—one project at a time.*<br>
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shrvnisawant) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shravanisawant19) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/shrvnisawant) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shravani.sawant@vit.edu.in) 
 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=shrvniii&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=shrvniii&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=shrvniii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shrvniii&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-🏆 GitHub Trophies
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=shrvniii&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+[![](https://komarev.com/ghpvc/?username=shrvniii&icon=0&color=0)](https://visitcount.itsvg.in)
 
-✍️ Random Dev Quote
-
-
-🔝 Top Contributed Repo
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
